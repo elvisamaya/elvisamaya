@@ -16,7 +16,6 @@ I'm actively seeking internship opportunities, fellowships, and collaborative pr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvissebamaya)
 [![Website](https://img.shields.io/badge/Website-222222?style=flat&logo=googlechrome&logoColor=white)](https://elvisamaya.com)
-[![Email](https://img.shields.io/badge/Email-8C1515?style=flat&logo=gmail&logoColor=white)](mailto:esamaya@stanford.edu)
 
 ### 💻 Languages & Tools
 
